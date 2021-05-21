@@ -1,0 +1,27 @@
+def added(L):
+    pass
+
+def subtracter(L):
+    pass
+
+def multiplier(L):
+    pass
+
+def divider(L):
+    pass
+
+def get_target_noparens(nums, target):
+    if sum(nums) == target:
+        print()
+    else:
+        for c1 in nums:
+            val = 0
+            if added([c1]) == target:
+                print..
+                return none
+            elif subtracter([c1])
+            for c2 in nums:
+                if added([c1, c2]) == target..
+                for c3 in nums:
+                    if added([c1, c2, c3]) == target:
+                        print...
